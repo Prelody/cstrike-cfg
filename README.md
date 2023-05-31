@@ -1,8 +1,8 @@
 # prelody-cfg
 
-# Counter-Strike: Source onfig
+My Counter-Strike: Source config
 
-## External programs:
+### External programs:
 
 https://github.com/b1scoito/bunnyhopfix/releases/tag/1.0
 
