@@ -1,5 +1,7 @@
 # prelody-cfg
 
+My Counter-Strike: Source config I made for bhop and surf.
+
 ## Insalling
 
 If you want to remove your config, delete any configs you may have in cstrike/custom and delete the cstrike/cfg folder. 
