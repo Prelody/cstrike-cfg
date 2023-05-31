@@ -12,7 +12,7 @@ Launch CSS with only "-novid -autoconfig -default +host_writeconfig config.cfg f
 
 Afterwards,  replace the launch options with "-insecure -novid -r_emulate_opengl" and paste in the new config files.
 
-### External programs:
+## External programs:
 
 https://github.com/b1scoito/bunnyhopfix/releases/tag/1.0
 
