@@ -1,4 +1,4 @@
-# prelody-cfg
+# cstrike-cfg
 
 My Counter-Strike: Source config I made for bhop and surf.
 
