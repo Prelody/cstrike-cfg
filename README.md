@@ -14,6 +14,8 @@ Launch CSS with only "-novid -autoconfig -default -w 1920 -h 1080 +host_writecon
 
 Afterwards,  replace the launch options with "-insecure -novid -r_emulate_opengl" and paste in the new config files.
 
+Launch Counter-Strike: Source with start.bat after downloading external programs.
+
 ## External programs:
 
 https://github.com/b1scoito/bunnyhopfix/releases/tag/1.0
