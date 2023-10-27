@@ -121,7 +121,7 @@ Scheme
 
 		PropertySheet.TextColor			"OffWhite"
 		PropertySheet.SelectedTextColor	"White"
-		PropertySheet.TransitionEffectTime	"0.25"	// time to change from one tab to another
+		PropertySheet.TransitionEffectTime	"0.1"	// time to change from one tab to another
 
 		RadioButton.TextColor			"DullWhite"
 		RadioButton.SelectedTextColor	"White"
@@ -244,12 +244,12 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Lucida Console"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
-				"antialias"	"1"
+				"antialias"	"0"
 			}
 			"5"
 			{

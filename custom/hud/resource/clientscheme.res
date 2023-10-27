@@ -827,7 +827,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"Arial" [!$OSX]
 				"name"		"Verdana" [$OSX]
 				"tall"		"18"
 				"weight"	"600"
@@ -954,7 +954,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Times New Roman"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -965,7 +965,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Courier New"
+				"name"		"Times New Roman"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
