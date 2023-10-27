@@ -14,7 +14,7 @@
 	}
 	"3"
 	{
-		"label" "#GameUI_GameMenu_Disconnect"
+		"label" "DISCONNECT"
 		"command" "Disconnect"
 		"OnlyInGame" "1"
 	}
@@ -32,30 +32,18 @@
 	}
 	"6"
 	{
-		"label" "SURFTRICKS 1"
-		"command" "engine connect 142.132.204.111:27015"
+		"label" "SERVER BROWSER"
+		"command" "engine gamemenucommand openserverbrowser"
 		"notmulti" "1" 
 	}
 	"7"
 	{
-		"label" "SURFTRICKS 2"
-		"command" "engine connect 142.132.204.111:27016"
-		"notmulti" "1" 
-	}
-	"8"
-	{
-		"label" "SURFTRICKS 3"
-		"command" "engine connect 142.132.204.111:27017"
-		"notmulti" "1" 
-	}
-	"9"
-	{
 		"label" ""
 		"command" ""
 	}
-	"10"
+	"8"
 	{
-		"label" "#GameUI_GameMenu_Quit"
+		"label" "QUIT"
 		"command" "QuitNoConfirm"
 	}
 }

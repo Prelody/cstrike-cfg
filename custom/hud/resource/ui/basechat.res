@@ -7,8 +7,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"5"	[$WIN32]
-		"xpos"			"42"	[$X360]
-		"ypos"			"300"
+		"ypos"			"305"
 		"wide"	 		"320"
 		"tall"	 		"170"
 		"PaintBackgroundType"	"2"
@@ -17,12 +16,11 @@
 	ChatInputLine
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName" 		ChatInputLine
+		"fieldName" 		"ChatInputLine"
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"5"	[$WIN32]
-		"xpos"			"42"	[$X360]
-		"ypos"			"300"
+		"ypos"			"350"
 		"wide"	 		"310"
 		"tall"	 		"2"
 		"PaintBackgroundType"	"2"

@@ -72,8 +72,8 @@ Scheme
 
 		Frame.BgColor					"TransparentBlack"
 		Frame.OutOfFocusBgColor			"TransparentBlack"
-		Frame.FocusTransitionEffectTime	"0.0"	// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.0"	// time it takes for a window to fade in/out on open/close
+		Frame.FocusTransitionEffectTime	"0.1"	// time it takes for a window to fade in/out on focus/out of focus
+		Frame.TransitionEffectTime		"0.1"	// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
 		FrameGrip.Color1				"Blank"
 		FrameGrip.Color2				"Blank"
@@ -130,7 +130,7 @@ Scheme
 
 		PropertySheet.TextColor			"Orange"
 		PropertySheet.SelectedTextColor	"Orange"
-		PropertySheet.TransitionEffectTime	"0.25"	// time to change from one tab to another
+		PropertySheet.TransitionEffectTime	"0.1"	// time to change from one tab to another
 
 		RadioButton.TextColor			"Orange"
 		RadioButton.SelectedTextColor	"Orange"
@@ -203,7 +203,7 @@ Scheme
 		"HudIcon_Red"		"160 0 0 255"
 
 		// CHudMenu
-		"ItemColor"		"255 167 42 200"	// default 255 167 42 255
+		"ItemColor"		"255 167 42 255"	// default 255 167 42 255
 		"MenuColor"		"233 208 173 255"
 		"MenuBoxBg"		"0 0 0 100"
 
