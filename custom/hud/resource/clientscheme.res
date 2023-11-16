@@ -205,7 +205,7 @@ Scheme
 		// CHudMenu
 		"ItemColor"		"255 167 42 255"	// default 255 167 42 255
 		"MenuColor"		"233 208 173 255"
-		"MenuBoxBg"		"0 0 0 100"
+		"MenuBoxBg"		"0 0 0"
 
 		// weapon selection colors
 		"SelectionNumberFg"		"255 220 0 200"
@@ -350,7 +350,7 @@ Scheme
 				"weight"	"400"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
-				"antialias"	"0"
+				"antialias"	"1"
 				"additive"	"0"
 			}
 			"5"
@@ -864,6 +864,7 @@ Scheme
                 "tall"        "22"
                 "weight"    "400"
                 "yres"    "1024 1199"
+                "antialias" "1"
             }
 			"5"
 			{
