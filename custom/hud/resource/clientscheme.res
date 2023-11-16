@@ -203,8 +203,8 @@ Scheme
 		"HudIcon_Red"		"160 0 0 255"
 
 		// CHudMenu
-		"ItemColor"		"255 167 42 255"	// default 255 167 42 255
-		"MenuColor"		"233 208 173 255"
+		"ItemColor"		"255 255 255 255"	// default 255 167 42 255
+		"MenuColor"		"255 255 255 255" // default 233 208 173 255
 		"MenuBoxBg"		"0 0 0"
 
 		// weapon selection colors
