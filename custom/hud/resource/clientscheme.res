@@ -829,8 +829,8 @@ Scheme
 			{
 				"name"		"Arial" [!$OSX]
 				"name"		"Verdana" [$OSX]
-				"tall"		"18"
-				"weight"	"600"
+				"tall"		"16"
+				"weight"	"500"
 				"antialias" "1"
 				"additive"	"1"
 			}
