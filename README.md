@@ -1,10 +1,10 @@
 # cstrike-cfg
 
-My Counter-Strike: Source config I made for bhop and surf.
+My personal Counter-Strike: Source config I made for bhop and surf. 
 
 ## Insalling
 
-If you want to remove your config, delete any configs you may have in cstrike/custom and delete the cstrike/cfg folder. 
+If you want to remove your current config, delete cstrike/custom and cstrike/cfg folders. 
 Then verify your game files using Steam.
 
 Next, if you have Steam Cloud Synchronization enabled, make all the files in `STEAM_FOLDER/userdata/USER_ID/240/remote/cfg` blank. 
@@ -14,7 +14,7 @@ Launch CSS with only `-novid -autoconfig -default -w 1920 -h 1080 +host_writecon
 
 Afterwards, replace the launch options with `-insecure -novid -r_emulate_opengl -console` and paste in the new config files.
 
-**Launch Counter-Strike: Source with start.bat after downloading external programs with correct pathing.**
+**Launch Counter-Strike: Source with start.bat after downloading external programs with the correct pathing.**
 
 ## External programs:
 
